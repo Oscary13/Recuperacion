@@ -297,14 +297,14 @@
           </div>
 
           <div class="contact-text">
-            Para contactarnos por favor use el formulario de contacto visible<br /><br />
+           <h2> Para contactarnos por favor use el formulario de contacto visible<br /><br /></h2>
 
-            Al enviar archivos, utilice<br />
-            el siguiente correo electrónico<br /><br />
+            <h2>Al enviar archivos, utilice<br /></h2>
+            <h2>el siguiente correo electrónico<br /><br /></h2>
 
-            <strong>OSCARY BASURTO BASURTO</strong><br /><br />
+            <h2><strong>OSCARY BASURTO BASURTO</strong><br /><br /></h2>
 
-            Email: <strong>oscary_1320114020@uptecamac.edu.mx</strong>
+            <h2>Email: <strong>oscary_1320114020@uptecamac.edu.mx</strong></h2>
           </div>
         </div>
       </section>
