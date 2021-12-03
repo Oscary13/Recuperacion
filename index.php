@@ -75,7 +75,7 @@
           <ul id="menu">
             <li><a href="#home">INICIO</a></li>
             <li><a href="#about-us">NOSOTROS</a></li>
-            <li><a href="#portfolio">PECES DISPONIBLES</a></li>
+            <li><a href="#portfolio">PECES</a></li>
             <li><a href="#contact">CONTACTO</a></li>
           </ul>
         </div>
